@@ -1,0 +1,28 @@
+05/01/24 04:57: PM:INFO:*** starting test_001_homepage***
+05/01/24 05:02: PM:INFO:*** starting test_001_homepage***
+05/01/24 05:02: PM:INFO:Applicable driver not found; attempting to install with Selenium Manager (Beta)
+05/01/24 05:02: PM:WARNING:Unable to obtain driver using Selenium Manager: Selenium Manager failed for: C:\Users\Nagalakshmi S\Desktop\Bix\bbsAutomation\bixbyts\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json.
+The chromedriver version cannot be discovered
+05/14/24 09:17: PM:INFO:*** starting test_001_homepage***
+06/05/24 03:37: PM:INFO:*** starting test_001_homepage***
+06/05/24 03:38: PM:INFO:*** starting test_001_homepage***
+06/05/24 03:40: PM:INFO:*** starting test_001_homepage***
+06/05/24 03:41: PM:INFO:*** starting test_001_homepage***
+06/05/24 03:42: PM:INFO:*** starting test_001_homepage***
+06/05/24 03:45: PM:INFO:*** starting test_001_homepage***
+06/05/24 03:50: PM:INFO:*** starting test_001_homepage***
+06/05/24 03:51: PM:INFO:*** starting test_001_homepage***
+06/05/24 03:55: PM:INFO:*** starting test_001_homepage***
+06/05/24 03:57: PM:INFO:*** starting test_001_homepage***
+06/05/24 04:10: PM:INFO:*** starting test_001_homepage***
+06/05/24 04:10: PM:INFO:Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/05/24 04:10: PM:WARNING:Unable to obtain driver using Selenium Manager: Selenium Manager failed for: C:\Users\Nagalakshmi S\Desktop\Bix\bbsAutomation\bixbyts\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json.
+The chromedriver version cannot be discovered
+06/05/24 04:14: PM:INFO:*** starting test_001_homepage***
+06/05/24 04:14: PM:INFO:Applicable driver not found; attempting to install with Selenium Manager (Beta)
+06/05/24 04:14: PM:WARNING:Unable to obtain driver using Selenium Manager: Selenium Manager failed for: C:\Users\Nagalakshmi S\Desktop\Bix\bbsAutomation\bixbyts\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json.
+The chromedriver version cannot be discovered
+08/02/24 08:19: PM:INFO:*** starting test_001_homepage***
+08/02/24 08:19: PM:INFO:Applicable driver not found; attempting to install with Selenium Manager (Beta)
+08/02/24 08:19: PM:WARNING:Unable to obtain driver using Selenium Manager: Selenium Manager failed for: C:\Users\Nagalakshmi S\Desktop\Bix\bbsAutomation\bixbyts\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json.
+The chromedriver version cannot be discovered
